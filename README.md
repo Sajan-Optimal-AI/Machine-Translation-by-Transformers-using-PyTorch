@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/82649993/124318795-d3cdf680-db96-11eb-9e58-db7960462282.png)
 ![image](https://user-images.githubusercontent.com/82649993/124318896-00820e00-db97-11eb-9db7-afeb525d677d.png)
 
-# Test Example Data Ticker - Dingle head Attention visualization:
+# Test Example Data Ticker - Single head Attention visualization:
 ![image](https://user-images.githubusercontent.com/82649993/124319105-5ce52d80-db97-11eb-8a56-154237d3e7a9.png)
 
 # Heavy PyTorch codes are practiced.
